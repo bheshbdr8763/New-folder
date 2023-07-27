@@ -1,0 +1,18 @@
+.conatiner{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+    font-size: large;
+    font-family: cursive;
+}
+#btn {
+    font-family: cursive;
+    color: aliceblue;
+    background-color: black;
+
+}
+#result {
+    color: red;
+}
